@@ -61,18 +61,27 @@ java StudentGradeManagement
 ## 📝 Sample Output
 
 Enter number of students: 2
+
 Enter number of subjects: 3
 
 Enter name of Student 1: John
+
 Enter Roll No of Student 1: 101
+
 Enter marks for Subject 1: 90
+
 Enter marks for Subject 2: 85
+
 Enter marks for Subject 3: 88
 
 Enter name of Student 2: Alice
+
 Enter Roll No of Student 2: 102
+
 Enter marks for Subject 1: 70
+
 Enter marks for Subject 2: 65
+
 Enter marks for Subject 3: 60
 
 === STUDENT GRADE REPORT ===
