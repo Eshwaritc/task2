@@ -91,6 +91,7 @@ Enter marks for subject 2: 65
 Enter marks for subject 3: 60
 
 ===== Student Records =====
+
 Name: John
 
 Marks: 90 85 88 
@@ -98,6 +99,7 @@ Marks: 90 85 88
 Average: 87.66666666666667
 
 Grade: B
+
 -------------------------
 Name: Alice
 
@@ -106,5 +108,6 @@ Marks: 70 65 60
 Average: 65.0
 
 Grade: C
+
 -------------------------
 
