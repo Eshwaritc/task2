@@ -53,7 +53,7 @@ This version uses **ArrayList** for dynamic storage of student objects and appli
 ---
 
 ## ▶️ Run the Program
-### Compile
+## Compile
 
 javac StudentGradeManagementSystem.java
 
@@ -67,6 +67,8 @@ Enter number of students: 2
 
 
 
+
+
 Enter student name: John
 
 Enter number of subjects: 3
@@ -76,6 +78,9 @@ Enter marks for subject 1: 90
 Enter marks for subject 2: 85
 
 Enter marks for subject 3: 88
+
+
+
 
 
 Enter student name: Alice
