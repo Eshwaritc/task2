@@ -61,7 +61,6 @@ java StudentGradeManagement
 ## 📝 Sample Output
 
 Enter number of students: 2
-
 Enter number of subjects: 3
 
 Enter name of Student 1: John
