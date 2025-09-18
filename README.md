@@ -26,7 +26,9 @@ This project demonstrates the use of **Core Java, OOP concepts, and arrays/objec
 
 ## 📂 Project Structure
 ├── Student.java # Student class
+
 ├── StudentGradeManagement.java # Main program
+
 ├── README.md # Project documentation
 
 ---
@@ -47,7 +49,7 @@ This project demonstrates the use of **Core Java, OOP concepts, and arrays/objec
 ---
 
 ## ▶️ Run the Program
-### Compile
+### COMPILE
 
 javac StudentGradeManagement.java
 
@@ -76,16 +78,24 @@ Enter marks for Subject 3: 60
 === STUDENT GRADE REPORT ===
 
 Student Name: John
+
 Roll No: 101
+
 Marks: 90 85 88 
+
 Average: 87.66666666666667
+
 Grade: B
 -----------------------------
 
 Student Name: Alice
+
 Roll No: 102
+
 Marks: 70 65 60 
+
 Average: 65.0
+
 Grade: C
 -----------------------------
 
